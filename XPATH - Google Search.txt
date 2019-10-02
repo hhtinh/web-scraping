@@ -1,0 +1,36 @@
+
+/html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[1]/div/div/h3/a
+
+/html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/div/div/div[1]/a/img
+
+/html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[3]/div[3]/div/h3/a
+/html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[3]/div[4]/div/h3/a
+/html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[3]/div[5]/div/h3/a
+
+/html/body/div/div[5]/div[4]/*/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/*/div/h3/a
+
+NEXT: /html/body/div/div[5]/div[4]/div[7]/div[1]/div[3]/div/div[5]/div/span[1]/div/table/tbody/tr/td[12]/a/span[2]
+
+
+/html/body/    div[5]/div[4]/div[9]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/div[1]/div/h3/a
+/html/body/    div[5]/div[4]/div[9]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/div[3]/div/h3/a
+/html/body/    div[5]/div[4]/div[9]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/div[5]/div/h3/a
+
+/html/body/div[5]/div[4]/*/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div[2]/*/div/h3/a
+
+NEXT: /html/body/    div[5]/div[4]/div[9]/div[1]/div[3]/div/div[5]/div/span[1]/div/table/tbody/tr/td[12]/a/span[2]
+
+
+/html/body/div[5]/div[4]/div[9]/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/div/div/div[1]/div/h3/a
+
+
+v1: /html/body//div[5]/div[4]/*/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/*/*/div/h3/a
+
+v2: /html/body//div[5]/div[4]/*/div[1]/div[3]/div/div[2]/div[2]/div/div/ol/*/*//div/h3/a
+
+NEXT: /html/body//div[5]/div[4]/*/div[1]/div[3]/div/div[5]/div/span[1]/div/table/tbody/tr/td[12]/a
+
+
+/html/body/div[5]/div[4]/div[9]/div[1]/div[3]/div/div[2]/div[2]/div/div/div/div[2]/div[4]/div/h3/a
+
+v3: /html/body//div[5]/div[4]/*/div[1]/div[3]/div/div[2]/div[2]/div/div/*/*/*//div/h3/a
